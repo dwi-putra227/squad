@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Squad Chelsea</string>
+
+    <string name="name_player">Nama Player</string>
+    <string name="umur_player">Umur Player</string>
+    <string name="negara_player">Negara Player</string>
+    <string name="desc_player">Description</string>
+    <string name="posisi_player">Posisi</string>
+    <string name="email_diri">ptrptrjago@gmail.com</string>
+    <string name="nama_saya">Dwi Putra Widiono</string>
+
+    <string-array name="data_player">
+        <item>Moises Caicedo</item>
+        <item>Levi Colwill</item>
+        <item>Marc Cucurella</item>
+        <item>Enzo Fernandez</item>
+        <item>Malo Gusto</item>
+        <item>Nicolas Jackson</item>
+        <item>Mykhaylo Mudryk</item>
+        <item>Christopher Nkunku</item>
+        <item>Cole Palmer</item>
+        <item>Jadon Sancho</item>
+    </string-array>
+
+    <string-array name="data_umur_player">
+        <item>22 years</item>
+        <item>21 years</item>
+        <item>26 years</item>
+        <item>23 years</item>
+        <item>21 years</item>
+        <item>23 years</item>
+        <item>23 years</item>
+        <item>26 years</item>
+        <item>22 years</item>
+        <item>24 years</item>
+    </string-array>
+
+    <string-array name="negara_player">
+        <item>Santo Domingo, Ecuador</item>
+        <item>Southampton, England</item>
+        <item>Alella, Spain</item>
+        <item>San Martin, Argentina</item>
+        <item>Decines-Charpieu, France</item>
+        <item>Djibonker, Senegal</item>
+        <item>Krasnograd, Ukraine</item>
+        <item>Lagny-sur-Marne, France</item>
+        <item>Manchester, England</item>
+        <item>London, England</item>
+    </string-array>
+
+    <string-array name="data_posisi">
+        <item>Central Midfielder</item>
+        <item>Defender</item>
+        <item>Left-Back</item>
+        <item>Central Midfielder</item>
+        <item>Right-Back</item>
+        <item>Striker</item>
+        <item>Left-Winger</item>
+        <item>Striker</item>
+        <item>Attacking Midfielder</item>
+        <item>Left-Winger</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Moises Caicedo is an Ecuadorian footballer known for his role as a defensive midfielder. Born on November 2, 2001, he gained international attention after joining Brighton Hove Albion in the English Premier League in 2021. Caicedo is recognized for his strong defensive abilities, game-reading vision, and effective ball distribution. He is also a key player for the Ecuador national team, representing them in various international tournaments.</item>
+        <item>Levi Colwill is an English footballer who plays as a central defender, known for his composure on the ball and strong defensive capabilities. Born on February 26, 2003, he came through Chelsea’s youth academy and made his mark during a loan spell at Huddersfield Town in the 2021-2022 season, where he played a crucial role in their push for promotion to the Premier League. Colwill is highly regarded for his ball-playing abilities, aerial strength, and tactical awareness. He returned to Chelsea and is seen as one of the most promising young defenders in English football, with experience at the England youth international level.</item>
+        <item>Marc Cucurella is a Spanish footballer known for his versatility as a left-back or left-wing-back. Born on July 22, 1998, in Alella, Spain, he developed through FC Barcelona’s famed La Masia academy. Cucurella gained prominence with Getafe before moving to Brighton Hove Albion in the Premier League in 2021. He is praised for his high energy, technical skill, and ability to contribute both defensively and offensively. In 2022, Cucurella secured a transfer to Chelsea, further establishing himself as a dynamic fullback in European football.</item>
+        <item>Enzo Fernández is an Argentine footballer known for his exceptional midfield skills, including vision, passing accuracy, and game intelligence. Born on January 17, 2001, he developed through River Plate’s youth academy before making a significant impact with Benfica in Portugal. After an impressive 2022 World Cup campaign, where he helped Argentina win the tournament, Fernández secured a high-profile move to Chelsea in 2023. His ability to dictate the tempo of a match and contribute both defensively and offensively has made him one of the brightest young midfielders in world football.</item>
+        <item>Malo Gusto is a French right-back known for his speed, defensive ability, and attacking contributions. Born on May 19, 2003, he came through Lyons academy before joining Chelsea in 2023. Gusto is recognized for his overlapping runs, solid defending, and versatility on the right flank.</item>
+        <item>Nicolas Jackson is a Senegalese forward known for his pace, dribbling, and goal-scoring ability. Born on June 20, 2001, he began his professional career with Villarreal in Spain before joining Chelsea in 2023. Jackson is versatile in attack, capable of playing across the front line, and is recognized for his clinical finishing and agility in tight spaces.</item>
+        <item>Mykhailo Mudryk is a Ukrainian winger known for his blistering pace, dribbling skills, and creativity on the ball. Born on January 5, 2001, he developed through Shakhtar Donetsks academy, where he quickly became one of Ukraine most promising talents. In 2023, Mudryk made a high-profile move to Chelsea. His ability to beat defenders, deliver accurate crosses, and contribute to goal-scoring opportunities makes him a key asset on the left wing.</item>
+        <item>Christopher Nkunku is a French forward known for his versatility and goal-scoring ability. Born on November 14, 1997, he emerged from Paris Saint-Germains academy and became a standout player at RB Leipzig. In 2023, he joined Chelsea, bringing his creativity, dribbling skills, and clinical finishing to the Premier League.</item>
+        <item>Cole Palmer is an English forward known for his dribbling and goal-scoring ability. Born on May 6, 2002, he came through Manchester City youth academy and made his first-team debut in 2020. In 2023, he joined Chelsea, showcasing his talent as a promising young player.</item>
+        <item>Jadon Sancho is an English winger known for his exceptional dribbling, creativity, and goal-scoring ability. Born on March 25, 2000, he rose to prominence at Borussia Dortmund, showcasing his talent in the Bundesliga. In 2023, Sancho transferred to Chelsea, where he continues to be one of England top young players and a key asset in attack.</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/caicedo</item>
+        <item>@drawable/colwill</item>
+        <item>@drawable/cucurella</item>
+        <item>@drawable/enzo</item>
+        <item>@drawable/gusto</item>
+        <item>@drawable/jackson</item>
+        <item>@drawable/mudryk</item>
+        <item>@drawable/nkunku</item>
+        <item>@drawable/palmer</item>
+        <item>@drawable/sancho</item>
+    </integer-array>
+
+</resources>
